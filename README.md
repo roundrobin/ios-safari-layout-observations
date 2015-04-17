@@ -14,7 +14,7 @@
 
 ## Project page:
 
-	[iOS Safari CSS Layouts](http://roundrobin.github.io/ios-safari-layout-observations/)
+	[iOS Safari CSS Layouts!](http://roundrobin.github.io/ios-safari-layout-observations/)
 
 
 
